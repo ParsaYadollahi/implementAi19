@@ -1,7 +1,7 @@
 # Welcome to our project for implementAi19!!
 # :collision::collision: YouCompress :collision::collision:
 
-A program that will reduce the memory and time by extracting the relevant data from the footage provided to the program
+A program that will reduce the memory and time of videos by extracting the relevant data from the footage provided to the program
 
 ## Getting Started
 
